@@ -136,4 +136,4 @@ DarBelDar/
 
 ---
 
-Made in Algeria 🇩🇿
+Copyright 2026 DarBelDar. All Rights Reserved. Proprietary and confidential.
